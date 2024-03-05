@@ -1,1 +1,3 @@
+Inside this folder you will find small and large projects.
 
+1. Tale of Tails- Tale of Tails was a group project for the Houston Museum of Natural Science with the intentions of teaching everyone about the recently discovered T-Rex fossils that was given the name Wyrex. A classmate and I worked on one of the second level of the game, a small puzzle where you have the objective of assembling the dinosaur fossils.
